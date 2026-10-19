@@ -45,13 +45,18 @@
   <img src="./assets/icons/about.svg" width="20" height="20" valign="middle" /> <i>About Me</i>
 </h2>
 
-<img align="left" width="165" hspace="20" src="./assets/pixel_avatar.png" alt="Amaan Rizwan" />
-<br /><br />
-<p align="center">
-  Hello! My name is <b>Amaan Rizwan</b>, and I am a Full Stack Software Engineer. I am passionate about learning new technologies, developing innovative projects, and solving complex problems through programming. Currently, I am honing my skills in <b>TypeScript, Next.js, React, PostgreSQL, and Node.js</b>, focusing on building robust applications and continuously growing within the tech industry.
-</p>
-
-<br clear="all" />
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="170" align="left" valign="bottom">
+      <img src="./assets/pixel_avatar.png" width="160" alt="Amaan Rizwan" style="display: block;" />
+    </td>
+    <td valign="middle">
+      <p align="center">
+        Hello! My name is <b>Amaan Rizwan</b>, and I am a Full Stack Software Engineer. I am passionate about learning new technologies, developing innovative projects, and solving complex problems through programming. Currently, I am honing my skills in <b>TypeScript, Next.js, React, PostgreSQL, and Node.js</b>, focusing on building robust applications and continuously growing within the tech industry.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">
   <img src="./assets/icons/focus.svg" width="20" height="20" valign="middle" /> <i>Current Focus</i>
