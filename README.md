@@ -1,15 +1,11 @@
 <div align="center">
-  <img src="./assets/banner.jpg" alt="Amaan Rizwan - Systems and Software Engineering" width="100%" />
-
-  <br /><br />
+  <img src="./assets/banner.jpg" alt="Amaan Rizwan" width="100%" />
 
   <h1>amaan rizwan</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=full+stack+engineer+%40+gattai;building+intralead+(next.js+16+%2B+sse);7w+idle+homelab+runner;turning+coffee+into+clean+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=3200&pause=2800&color=38BDF8&center=true&vCenter=true&width=500&height=36&lines=full+stack+engineer+%40+gattai;building+intralead;low-power+homelab+systems;creative+3d+web+experiments" alt="Typing SVG" />
   </a>
-
-  <br /><br />
 
   <p>
     <a href="https://www.linkedin.com/in/amaan-rizwan"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -18,15 +14,11 @@
   </p>
 </div>
 
-<br />
-
 ### what i do
-* **full stack intern** at **gattai**, shipping production web apps, apis, and internal tools.
-* **builder** at **intralead**, real-time lead discovery using next.js 16, server-sent events, and supabase.
-* **homelab nerd**: running proxmox, lxc containers, and cloudflare zero-trust on bare metal at a tiny 7w idle draw.
-* **creative tech**: exploring three.js and interactive 3d web experiments.
-
-<br />
+* **full stack intern** at **gattai**, shipping production web apps, internal tools, and apis.
+* **founder & builder** at **intralead**, real-time b2b lead intelligence with next.js 16, server-sent events, and supabase.
+* **self-hosted infrastructure**: running proxmox, lxc containers, and cloudflare tunnels on a 7w low-power home server.
+* **creative web**: building interactive 3d experiences with three.js and react three fiber.
 
 ### tech stack
 
