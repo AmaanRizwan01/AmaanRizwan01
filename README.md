@@ -1,22 +1,22 @@
+<div style="max-width: 850px; min-width: 320px; margin: 0 auto;">
+
+<p align="center">
+  <img src="./assets/banner.jpg" width="100%" alt="Amaan Rizwan" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amaan-rizwan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://amaanrizwan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:amaanrizwan101@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 <div align="center">
-  <img src="./assets/banner.jpg" alt="Amaan Rizwan" width="100%" />
-
-  <br /><br />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=2000&pause=300&color=F0F6FC&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Software+Engineer+%40+Gattai;Building+Intralead;Self-Hosted+Infrastructure;Creative+3D+Web+Experiences" alt="Typing SVG" />
-  </a>
-
-  <p>
-    <a href="https://www.linkedin.com/in/amaan-rizwan"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://amaanrizwan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:amaanrizwan101@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=2000&pause=300&color=F0F6FC&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Software+Engineer+%40+Gattai;Building+Intralead;Self-Hosted+Infrastructure;Creative+3D+Web+Experiences" alt="Typing SVG" />
 </div>
 
----
-
-<h3 align="center">🎯 <em>Technologies</em></h3>
+<h2 align="center">
+  <img src="./assets/icons/emblem.svg" width="20" height="20" valign="middle" /> <i>Technologies</i>
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
@@ -41,33 +41,36 @@
   <img src="https://img.shields.io/badge/Proxmox_VE-0D1117?style=for-the-badge&logo=proxmox&logoColor=E57000" alt="Proxmox" />
 </p>
 
----
-
-<h3 align="center">🎯 <em>Statistics</em></h3>
+<h2 align="center">
+  <img src="./assets/icons/emblem.svg" width="20" height="20" valign="middle" /> <i>Statistics</i>
+</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmaanRizwan01&custom_title=Amaan%20Rizwan's%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&color=58A6FF&line=38BDF8&point=FFFFFF&area=true&hide_border=false" width="100%" alt="Amaan Rizwan Contribution Graph" />
+  <img src="https://ghchart.rshah.org/38BDF8/AmaanRizwan01" width="100%" alt="Amaan Rizwan Contribution Graph" />
 </p>
 
----
-
-<h3 align="center">🎯 <em>About Me</em></h3>
+<h2 align="center">
+  <img src="./assets/icons/emblem.svg" width="20" height="20" valign="middle" /> <i>About Me</i>
+</h2>
 
 <p>
-  <img align="left" width="165" src="./assets/pixel_avatar.png" alt="Amaan Rizwan" />
-  Hello! My name is <b>Amaan Rizwan</b>, and I am a <b>Full Stack Software Engineer</b> based in Dubai. I am passionate about learning new technologies, developing innovative projects, and solving complex problems through programming. Currently, I am honing my skills in <b>TypeScript</b>, <b>Next.js</b>, <b>React</b>, <b>PostgreSQL</b>, and <b>Node.js</b>, focusing on building scalable applications and continuously growing within the software industry.
+  <img align="left" width="165" hspace="20" src="./assets/pixel_avatar.png" alt="Amaan Rizwan" />
+  Hello! My name is <b>Amaan Rizwan</b>, and I am a Full Stack Software Engineer. I am passionate about learning new technologies, developing innovative projects, and solving complex problems through programming. Currently, I am honing my skills in <b>TypeScript, Next.js, React, PostgreSQL, and Node.js</b>, focusing on building robust applications and continuously growing within the tech industry.
 </p>
 
-<br clear="left" />
+<br clear="all" />
 
----
+<h2 align="center">
+  <img src="./assets/icons/emblem.svg" width="20" height="20" valign="middle" /> <i>Current Focus</i>
+</h2>
 
-<h3 align="center">🎯 <em>Hobbies & Goals</em></h3>
+* **Gattai**: Full Stack Software Engineer Intern shipping production web apps, internal tools, and APIs.
+* **Intralead**: Real-time B2B lead intelligence platform built with Next.js, Server-Sent Events, and Supabase.
+* **Self-Hosted Infrastructure**: Low-power home server running Proxmox, LXC containers, and Cloudflare tunnels.
+* **Creative Web**: Building interactive 3D experiences with Three.js and React Three Fiber.
 
 <p align="center">
-  Full Stack Software Engineer Intern at <b>Gattai</b> &middot; Founder at <b>Intralead</b>
-  <br />
   <em>“The unexamined code is not worth shipping.”</em> - Socrates
-  <br /><br />
-  <b>Self-Hosted Infrastructure</b> &middot; <b>Creative 3D Web</b> &middot; <b>Bare-Metal Homelab</b>
 </p>
+
+</div>
