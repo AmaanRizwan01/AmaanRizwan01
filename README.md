@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/banner.jpg" alt="Amaan Rizwan" width="100%" />
 
-  <h1>Amaan Rizwan</h1>
+  <br />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=2000&pause=300&color=F0F6FC&center=true&vCenter=true&width=500&height=36&lines=Full+Stack+Software+Engineer+%40+Gattai;Building+Intralead;Self-Hosted+Infrastructure;Creative+3D+Web+Experiences" alt="Typing SVG" />
