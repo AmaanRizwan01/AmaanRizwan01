@@ -1,10 +1,10 @@
 <div align="center">
   <img src="./assets/banner.jpg" alt="Amaan Rizwan" width="100%" />
 
-  <h1>amaan rizwan</h1>
+  <h1>Amaan Rizwan</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=3200&pause=2800&color=38BDF8&center=true&vCenter=true&width=500&height=36&lines=full+stack+engineer+%40+gattai;building+intralead;low-power+homelab+systems;creative+3d+web+experiments" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=21&duration=3200&pause=2800&color=F0F6FC&center=true&vCenter=true&width=500&height=36&lines=Full+Stack+Software+Engineer+%40+Gattai;Building+Intralead;Self-Hosted+Infrastructure;Creative+3D+Web+Experiences" alt="Typing SVG" />
   </a>
 
   <p>
@@ -14,15 +14,15 @@
   </p>
 </div>
 
-### what i do
-* **full stack intern** at **gattai**, shipping production web apps, internal tools, and apis.
-* **founder & builder** at **intralead**, real-time b2b lead intelligence with next.js 16, server-sent events, and supabase.
-* **self-hosted infrastructure**: running proxmox, lxc containers, and cloudflare tunnels on a 7w low-power home server.
-* **creative web**: building interactive 3d experiences with three.js and react three fiber.
+### What I Do
+* **Full Stack Intern** at **Gattai**, shipping production web apps, internal tools, and APIs.
+* **Founder & Builder** at **Intralead**, real-time B2B lead intelligence with Next.js 16, Server-Sent Events, and Supabase.
+* **Self-Hosted Infrastructure**: Running Proxmox, LXC containers, and Cloudflare tunnels on a 7W low-power home server.
+* **Creative Web**: Building interactive 3D experiences with Three.js and React Three Fiber.
 
-### tech stack
+### Tech Stack
 
-#### languages & core
+#### Languages & Core
 <p>
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
 </p>
 
-#### frontend & ui
+#### Frontend & UI
 <p>
   <img src="https://img.shields.io/badge/Next.js%2016-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React%2019-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP" />
 </p>
 
-#### backend & infrastructure
+#### Backend & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
