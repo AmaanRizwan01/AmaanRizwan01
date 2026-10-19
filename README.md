@@ -1,57 +1,53 @@
 <div align="center">
-  <h1>Hey, I'm Amaan Rizwan 👋</h1>
-  <p>Full-Stack Software Engineer based in Dubai. Building high-performance web applications, distributed systems, and SaaS products.</p>
+  <img src="./assets/banner.jpg" alt="Amaan Rizwan - Systems and Software Engineering" width="100%" />
+
+  <br /><br />
+
+  <h1>Amaan Rizwan</h1>
+  <p><em>Full-Stack Software Engineer &middot; Distributed Systems &middot; Production SaaS</em></p>
 
   <p>
-    <a href="https://www.linkedin.com/in/amaan-rizwan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/amaan-rizwan"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://amaanrizwan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:amaanrizwan101@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:amaanrizwan101@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
-### ⚡ What I'm Up To
-* 💼 **Full Stack Software Engineer Intern** at **Gattai**.
-* 🚀 **Founder & Engineer** at **Intralead**, a real-time B2B lead intelligence platform built on Next.js 16, TypeScript, Supabase, and Server-Sent Events (SSE).
-* 🖥️ Running a bare-metal **homelab** in Ajman powered by Proxmox VE, LXC containers, and Cloudflare zero-trust networking tuned to 7W idle power.
+<br />
 
-### 🛠️ Tech Stack
+### Focus & Engineering
+* **Full Stack Software Engineer Intern** at **Gattai**, engineering core web applications, backend services, and scalable APIs.
+* **Founder & Engineer** at **Intralead**, building real-time B2B lead intelligence with Next.js 16, TypeScript, Supabase, and Server-Sent Events (SSE).
+* **Bare-metal Systems**: Designing and maintaining a private homelab running Proxmox VE, LXC containers, and Cloudflare zero-trust networking tuned to 7W idle power.
+
+<br />
+
+### Technical Stack
 
 #### Languages & Core
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
 </p>
 
-#### Frontend & UI
+#### Frontend & Interfaces
 <p>
-  <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
-  <img src="https://img.shields.io/badge/Three.js%20/%20R3F-000000?style=flat-square&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js%2016-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React%2019-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP" />
 </p>
 
-#### Backend, Databases & Systems
+#### Backend & Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Proxmox_VE-0D1117?style=for-the-badge&logo=proxmox&logoColor=E57000" alt="Proxmox" />
 </p>
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmaanRizwan01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanRizwan01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmaanRizwan01&theme=tokyonight&hide_border=true" width="97%" />
-</div>
