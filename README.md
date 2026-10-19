@@ -46,15 +46,16 @@
 </h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/38BDF8/AmaanRizwan01" width="100%" alt="Amaan Rizwan Contribution Graph" />
+  <img src="./assets/activity_graph.svg" width="100%" alt="Amaan Rizwan Contribution Graph" />
 </p>
 
 <h2 align="center">
   <img src="./assets/icons/emblem.svg" width="20" height="20" valign="middle" /> <i>About Me</i>
 </h2>
 
-<p>
-  <img align="left" width="165" hspace="20" src="./assets/pixel_avatar.png" alt="Amaan Rizwan" />
+<img align="left" width="165" hspace="20" src="./assets/pixel_avatar.png" alt="Amaan Rizwan" />
+<br /><br />
+<p align="center">
   Hello! My name is <b>Amaan Rizwan</b>, and I am a Full Stack Software Engineer. I am passionate about learning new technologies, developing innovative projects, and solving complex problems through programming. Currently, I am honing my skills in <b>TypeScript, Next.js, React, PostgreSQL, and Node.js</b>, focusing on building robust applications and continuously growing within the tech industry.
 </p>
 
@@ -68,9 +69,5 @@
 * **Intralead**: Real-time B2B lead intelligence platform built with Next.js, Server-Sent Events, and Supabase.
 * **Self-Hosted Infrastructure**: Low-power home server running Proxmox, LXC containers, and Cloudflare tunnels.
 * **Creative Web**: Building interactive 3D experiences with Three.js and React Three Fiber.
-
-<p align="center">
-  <em>“The unexamined code is not worth shipping.”</em> - Socrates
-</p>
 
 </div>
