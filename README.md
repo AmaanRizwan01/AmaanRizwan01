@@ -16,7 +16,7 @@
 
 ---
 
-<h3 align="center">Technologies</h3>
+<h3 align="center">🎯 <em>Technologies</em></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
@@ -43,32 +43,31 @@
 
 ---
 
-<h3 align="center">About Me</h3>
+<h3 align="center">🎯 <em>Statistics</em></h3>
 
-<table>
-  <tr>
-    <td width="30%" align="center" valign="middle">
-      <img src="./assets/avatar.png" width="160" alt="Amaan Rizwan" />
-    </td>
-    <td width="70%" valign="middle">
-      Hello! My name is <b>Amaan Rizwan</b>, and I am a Full Stack Software Engineer and founder based in Dubai. Currently building web applications and production APIs as an intern at <b>Gattai</b>, and founding <b>Intralead</b>, a real-time B2B lead intelligence platform.
-      <br /><br />
-      Outside of client and SaaS work, I manage my own self-hosted infrastructure on a 7W low-power Proxmox home server, experiment with interactive 3D web experiences using Three.js and React Three Fiber, and focus on writing clean, reliable, and scalable software.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmaanRizwan01&custom_title=Amaan%20Rizwan's%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&color=58A6FF&line=38BDF8&point=FFFFFF&area=true&hide_border=false" width="100%" alt="Amaan Rizwan Contribution Graph" />
+</p>
 
 ---
 
-<h3 align="center">Current Focus</h3>
+<h3 align="center">🎯 <em>About Me</em></h3>
 
-* **Gattai**: Full Stack Software Engineer Intern shipping production web apps, internal tools, and APIs.
-* **Intralead**: Real-time B2B lead intelligence platform built with Next.js, Server-Sent Events, and Supabase.
-* **Self-Hosted Infrastructure**: Low-power home server running Proxmox, LXC containers, and Cloudflare tunnels.
-* **Creative Web**: Building interactive 3D experiences with Three.js and React Three Fiber.
+<p>
+  <img align="left" width="165" src="./assets/pixel_avatar.png" alt="Amaan Rizwan" />
+  Hello! My name is <b>Amaan Rizwan</b>, and I am a <b>Full Stack Software Engineer</b> based in Dubai. I am passionate about learning new technologies, developing innovative projects, and solving complex problems through programming. Currently, I am honing my skills in <b>TypeScript</b>, <b>Next.js</b>, <b>React</b>, <b>PostgreSQL</b>, and <b>Node.js</b>, focusing on building scalable applications and continuously growing within the software industry.
+</p>
 
-<br />
+<br clear="left" />
+
+---
+
+<h3 align="center">🎯 <em>Hobbies & Goals</em></h3>
 
 <p align="center">
-  <em>“The unexamined code is not worth shipping.”</em>
+  Full Stack Software Engineer Intern at <b>Gattai</b> &middot; Founder at <b>Intralead</b>
+  <br />
+  <em>“The unexamined code is not worth shipping.”</em> - Socrates
+  <br /><br />
+  <b>Self-Hosted Infrastructure</b> &middot; <b>Creative 3D Web</b> &middot; <b>Bare-Metal Homelab</b>
 </p>
