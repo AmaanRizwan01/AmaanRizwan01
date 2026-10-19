@@ -15,7 +15,7 @@
 </div>
 
 <h2 align="center">
-  <img src="./assets/icons/emblem.svg" width="20" height="20" valign="middle" /> <i>Technologies</i>
+  <img src="./assets/icons/technologies.svg" width="20" height="20" valign="middle" /> <i>Technologies</i>
 </h2>
 
 <p align="center">
@@ -42,15 +42,7 @@
 </p>
 
 <h2 align="center">
-  <img src="./assets/icons/emblem.svg" width="20" height="20" valign="middle" /> <i>Statistics</i>
-</h2>
-
-<p align="center">
-  <img src="./assets/activity_graph.svg" width="100%" alt="Amaan Rizwan Contribution Graph" />
-</p>
-
-<h2 align="center">
-  <img src="./assets/icons/emblem.svg" width="20" height="20" valign="middle" /> <i>About Me</i>
+  <img src="./assets/icons/about.svg" width="20" height="20" valign="middle" /> <i>About Me</i>
 </h2>
 
 <img align="left" width="165" hspace="20" src="./assets/pixel_avatar.png" alt="Amaan Rizwan" />
@@ -62,7 +54,7 @@
 <br clear="all" />
 
 <h2 align="center">
-  <img src="./assets/icons/emblem.svg" width="20" height="20" valign="middle" /> <i>Current Focus</i>
+  <img src="./assets/icons/focus.svg" width="20" height="20" valign="middle" /> <i>Current Focus</i>
 </h2>
 
 * **Gattai**: Full Stack Software Engineer Intern shipping production web apps, internal tools, and APIs.
